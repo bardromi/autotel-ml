@@ -1,1 +1,1 @@
-# autotel-ml - SSD Team
+# autotel-ml
